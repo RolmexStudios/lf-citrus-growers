@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "lf-citrus-growers",
+  "compatibility_date": "2026-10-17",
+  "observability": {
+    "enabled": true
+  },
+  // Static Next export (`output: "export"` → `out/`). Not OpenNext / not `standalone`.
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}
