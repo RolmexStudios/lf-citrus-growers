@@ -1,9 +1,15 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { SiteRuntime } from "@/components/admin/site-runtime";
 import { BackgroundShift } from "@/components/shared/background-shift";
 import { MomentumScroll } from "@/components/shared/momentum-scroll";
+import { parseBrochureBlueprint } from "@/lib/brochure/schema";
 import { siteChrome } from "@/lib/site-content";
+import blueprintJson from "../../content/blueprint.json";
+import siteJson from "../../content/site.json";
 import "./globals.css";
+
+const bundled = parseBrochureBlueprint(blueprintJson);
 
 const inter = Inter({
   subsets: ["latin"],
@@ -39,9 +45,11 @@ export default function RootLayout({
       className={inter.variable}
     >
       <body>
-        {children}
-        <BackgroundShift />
-        <MomentumScroll />
+        <SiteRuntime bundled={bundled} site={siteJson}>
+          {children}
+          <BackgroundShift />
+          <MomentumScroll />
+        </SiteRuntime>
       </body>
     </html>
   );

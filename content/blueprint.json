@@ -5,26 +5,32 @@
     "businessName": "L&F Citrus Growers",
     "phone": "(956) 424-2360",
     "logoMark": "",
-    "logoImageUrl": "https://static.wixstatic.com/media/ee985c_bcba98686d4143538cae1aac833da04b~mv2.png/v1/fill/w_321,h_101,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0282_TIF.png",
+    "logoImageUrl": "/assets/media/ee985c-bcba98686d4143538cae1aac833da04b-mv2-png/v1/fill/w-321-h-101-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/img-0282-tif.png",
     "logoLayout": "horizontal",
     "brandDisplay": "logo-only",
     "logoReveal": "always",
     "links": [],
     "routeLinks": [
-      { "href": "/shop", "label": "Shop" },
-      { "href": "/#BrochureContact_1", "label": "Visit" }
+      {
+        "href": "/shop",
+        "label": "Shop"
+      },
+      {
+        "href": "/#BrochureContact_1",
+        "label": "Visit"
+      }
     ],
     "description": "Small and medium citrus trees grown from scratch in Mission, Texas. Hand grafted, TDA certified, over thirty varieties.",
-    "faviconUrl": "https://static.wixstatic.com/media/ee985c_bcba98686d4143538cae1aac833da04b~mv2.png/v1/fill/w_321,h_101,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0282_TIF.png",
-    "shareImageUrl": "https://static.wixstatic.com/media/11062b_ce2fd8513fae421187d7425625c8bcf9~mv2.jpg/v1/fill/w_1280,h_777,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_ce2fd8513fae421187d7425625c8bcf9~mv2.jpg"
+    "faviconUrl": "/assets/media/ee985c-bcba98686d4143538cae1aac833da04b-mv2-png/v1/fill/w-321-h-101-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/img-0282-tif.png",
+    "shareImageUrl": "/assets/media/11062b-ce2fd8513fae421187d7425625c8bcf9-mv2-jpg/v1/fill/w-1280-h-777-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/11062b-ce2fd8513fae421187d7425625c8bcf9-mv2.jpg"
   },
   "BrochureHero_1": {
     "component": "BrochureHero",
     "variant": "plate",
     "videoSrc": "",
-    "imageSrc": "https://static.wixstatic.com/media/11062b_ce2fd8513fae421187d7425625c8bcf9~mv2.jpg/v1/fill/w_1280,h_777,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_ce2fd8513fae421187d7425625c8bcf9~mv2.jpg",
+    "imageSrc": "/assets/media/11062b-ce2fd8513fae421187d7425625c8bcf9-mv2-jpg/v1/fill/w-1280-h-777-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/11062b-ce2fd8513fae421187d7425625c8bcf9-mv2.jpg",
     "imageAlt": "Peeled oranges, a lime, and citrus leaves on marble",
-    "logoImageUrl": "https://static.wixstatic.com/media/ee985c_bcba98686d4143538cae1aac833da04b~mv2.png/v1/fill/w_321,h_101,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0282_TIF.png",
+    "logoImageUrl": "/assets/media/ee985c-bcba98686d4143538cae1aac833da04b-mv2-png/v1/fill/w-321-h-101-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/img-0282-tif.png",
     "headline": "Citrus trees, grown from scratch.",
     "subheadline": "Small and medium trees, hand grafted in Mission, Texas. Browse what is on the bench.",
     "ctaLabel": "Shop trees",
@@ -40,11 +46,26 @@
     "sectionSize": "auto",
     "line": "TDA certified · Hand grafted · Mission, Texas",
     "cues": [
-      { "targetId": "BrochureAbout_1", "line": "Grown from scratch" },
-      { "targetId": "BrochureShop_1", "line": "Trees on the bench" },
-      { "targetId": "BrochureShop_1-categories", "line": "Shop by type" },
-      { "targetId": "BrochureAbout_2", "line": "Thirty varieties" },
-      { "targetId": "BrochureContact_1", "line": "Visit the nursery" }
+      {
+        "targetId": "BrochureAbout_1",
+        "line": "Grown from scratch"
+      },
+      {
+        "targetId": "BrochureShop_1",
+        "line": "Trees on the bench"
+      },
+      {
+        "targetId": "BrochureShop_1-categories",
+        "line": "Shop by type"
+      },
+      {
+        "targetId": "BrochureAbout_2",
+        "line": "Thirty varieties"
+      },
+      {
+        "targetId": "BrochureContact_1",
+        "line": "Visit the nursery"
+      }
     ]
   },
   "BrochureAbout_1": {
@@ -56,7 +77,7 @@
       "L&F Citrus Growers raises small and medium citrus trees in Mission, Texas — from rootstock to a one-gallon starter you can take home. Every tree is hand grafted the way orchard trees are grafted, for yield and a true variety.",
       "We have specialized in citrus for more than twenty years. The facilities and the trees are TDA certified. A one-gallon tree stands about 12 to 15 inches and can set fruit in the first year if it is cared for; we still recommend pulling that first fruit so the tree can grow."
     ],
-    "imageUrl": "https://static.wixstatic.com/media/ee985c_9b1ec9cf6a1246daaa981e45900b1a0e~mv2.png/v1/fill/w_498,h_751,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_9b1ec9cf6a1246daaa981e45900b1a0e~mv2.png",
+    "imageUrl": "/assets/media/ee985c-9b1ec9cf6a1246daaa981e45900b1a0e-mv2-png/v1/fill/w-498-h-751-al-c-q-90-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-9b1ec9cf6a1246daaa981e45900b1a0e-mv2.png",
     "imageAlt": "A one-gallon hand-grafted citrus tree in a nursery pot",
     "imageSide": "right",
     "services": [],
@@ -85,17 +106,29 @@
         "category": "Lemons",
         "title": "Improved Meyer Lemon, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_9b1ec9cf6a1246daaa981e45900b1a0e~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_9b1ec9cf6a1246daaa981e45900b1a0e~mv2.png",
+        "imageUrl": "/assets/media/ee985c-9b1ec9cf6a1246daaa981e45900b1a0e-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-9b1ec9cf6a1246daaa981e45900b1a0e-mv2.png",
         "imageAlt": "Improved Meyer lemon tree in a one-gallon pot",
         "images": [
-          "https://static.wixstatic.com/media/ee985c_9b1ec9cf6a1246daaa981e45900b1a0e~mv2.png/v1/fill/w_498,h_751,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_9b1ec9cf6a1246daaa981e45900b1a0e~mv2.png"
+          "/assets/media/ee985c-9b1ec9cf6a1246daaa981e45900b1a0e-mv2-png/v1/fill/w-498-h-751-al-c-q-90-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-9b1ec9cf6a1246daaa981e45900b1a0e-mv2.png"
         ],
         "description": "The Improved Meyer lemon — Valley Lemon — is an attractive garden tree. It flowers at different times through the year, mainly in spring, and bears a medium lemon with a smooth, thin, yellow-orange rind. The fruit is moderately seedy, juicy, and acidic.\n\nHand grafted on Smooth Flat Seville (sour orange) rootstock at our TDA certified nursery in Mission, Texas. Protect from strong wind and from temperatures under 40°F. Sun, water, and fertilizer notes come on the label with the tree.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Rootstock", "value": "Smooth Flat Seville" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Rootstock",
+            "value": "Smooth Flat Seville"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -106,15 +139,27 @@
         "category": "Limes",
         "title": "Thornless Mexican Lime, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_13a6368da30a4997b208a08435525556~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_13a6368da30a4997b208a08435525556~mv2.png",
+        "imageUrl": "/assets/media/ee985c-13a6368da30a4997b208a08435525556-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-13a6368da30a4997b208a08435525556-mv2.png",
         "imageAlt": "Thornless Mexican lime tree in a one-gallon pot",
         "images": [],
         "description": "A thornless Mexican lime — Key lime — grown from scratch and hand grafted in Mission. A compact one-gallon starter for a patio or a small yard.\n\nSame grafting method we use for orchard trees. Protect from freeze and strong wind. Pickup at the nursery; shipping only to the listed South Texas counties.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Thornless Mexican / Key lime" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Thornless Mexican / Key lime"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -125,15 +170,27 @@
         "category": "Lemons",
         "title": "Frost Eureka Lemon, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_984dbfebbb144c6c9c9bae69ac2c63f4~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_984dbfebbb144c6c9c9bae69ac2c63f4~mv2.png",
+        "imageUrl": "/assets/media/ee985c-984dbfebbb144c6c9c9bae69ac2c63f4-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-984dbfebbb144c6c9c9bae69ac2c63f4-mv2.png",
         "imageAlt": "Frost Eureka lemon tree in a one-gallon pot",
         "images": [],
         "description": "Frost Eureka is the classic acid lemon we graft for home growers. A small tree, raised here, ready for a pot or the ground in a protected spot.\n\nHand grafted at our TDA certified facilities. Keep it above 40°F and out of hard wind while it is young.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Frost Eureka" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Frost Eureka"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -144,15 +201,27 @@
         "category": "Oranges",
         "title": "N-33 Navel Orange, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_23dbed8308ef4216b1f253405570a494~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_23dbed8308ef4216b1f253405570a494~mv2.png",
+        "imageUrl": "/assets/media/ee985c-23dbed8308ef4216b1f253405570a494-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-23dbed8308ef4216b1f253405570a494-mv2.png",
         "imageAlt": "N-33 navel orange tree in a one-gallon pot",
         "images": [],
         "description": "N-33 navel on a one-gallon starter. Grown and grafted in the Valley for a true navel at a size you can carry home.\n\nEvery tree leaves with a care label. We recommend dropping first-year fruit so the tree can put on wood.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "N-33 Navel" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "N-33 Navel"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -163,15 +232,27 @@
         "category": "Limes",
         "title": "Persian Lime, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_b927e5adb9174cf4818199a35674c76e~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_b927e5adb9174cf4818199a35674c76e~mv2.png",
+        "imageUrl": "/assets/media/ee985c-b927e5adb9174cf4818199a35674c76e-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-b927e5adb9174cf4818199a35674c76e-mv2.png",
         "imageAlt": "Persian lime tree in a one-gallon pot",
         "images": [],
         "description": "Persian lime, hand grafted and grown from scratch in Mission. A seedless-style lime tree in a one-gallon pot — small enough for a patio, grafted for orchard yield.\n\nAvailable for pickup at the nursery. Shipping only inside the listed Texas counties.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Persian lime" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Persian lime"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -182,15 +263,27 @@
         "category": "Lemons",
         "title": "Pink Variegated Eureka, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_11df3d5f2b004d76b5cfd2040c781fb1~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_11df3d5f2b004d76b5cfd2040c781fb1~mv2.png",
+        "imageUrl": "/assets/media/ee985c-11df3d5f2b004d76b5cfd2040c781fb1-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-11df3d5f2b004d76b5cfd2040c781fb1-mv2.png",
         "imageAlt": "Pink variegated Eureka lemon tree with mottled leaves",
         "images": [],
         "description": "Variegated Pink Eureka — an ornamental lemon with mottled leaves and pink-fleshed fruit. Grown here as a small tree, not a grocery plant.\n\nHand grafted at our TDA certified nursery. Keep young trees out of freeze and hard wind.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Variegated Pink Eureka" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Variegated Pink Eureka"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -201,15 +294,27 @@
         "category": "Specialty",
         "title": "Rio Red Grapefruit, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_ea792fba815643c7b6fcf78de7ee3ab1~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_ea792fba815643c7b6fcf78de7ee3ab1~mv2.png",
+        "imageUrl": "/assets/media/ee985c-ea792fba815643c7b6fcf78de7ee3ab1-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-ea792fba815643c7b6fcf78de7ee3ab1-mv2.png",
         "imageAlt": "Rio Red grapefruit tree in a one-gallon pot",
         "images": [],
         "description": "Rio Red grapefruit on a one-gallon starter, grafted in the Valley where this variety belongs. A small tree now; the same grafting used in commercial groves.\n\nPickup in Mission. We ship only to Webb, Hidalgo, Cameron, Willacy, Brooks, Starr, Kenedy, Jim Hogg, Kleberg, and Nueces Counties.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Rio Red" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Rio Red"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -220,15 +325,27 @@
         "category": "Oranges",
         "title": "Olinda Valencia Orange, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_c1e3ccb2771c42a6a80e45bf6795ae7e~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_c1e3ccb2771c42a6a80e45bf6795ae7e~mv2.png",
+        "imageUrl": "/assets/media/ee985c-c1e3ccb2771c42a6a80e45bf6795ae7e-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-c1e3ccb2771c42a6a80e45bf6795ae7e-mv2.png",
         "imageAlt": "Olinda Valencia orange tree in a one-gallon pot",
         "images": [],
         "description": "Olinda Valencia — a juice orange on a compact starter. Grown and hand grafted in Mission so the variety stays true.\n\nOne-gallon trees are 12 to 15 inches tall. Care instructions travel with the tree.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Olinda Valencia" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Olinda Valencia"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -239,15 +356,27 @@
         "category": "Oranges",
         "title": "Clementine Mandarin, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_3f783b07b81c4f90bd335c4659ba9177~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_3f783b07b81c4f90bd335c4659ba9177~mv2.png",
+        "imageUrl": "/assets/media/ee985c-3f783b07b81c4f90bd335c4659ba9177-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-3f783b07b81c4f90bd335c4659ba9177-mv2.png",
         "imageAlt": "Clementine mandarin tree in a one-gallon pot",
         "images": [],
         "description": "Clementine mandarin, raised as a small tree from our benches. Easy to handle now; grafted for fruit later.\n\nHand grafted in our TDA certified facilities in Mission, Texas.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Clementine" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Clementine"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       },
@@ -258,15 +387,27 @@
         "category": "Specialty",
         "title": "Calamondin, 1 gal",
         "price": "$20.00",
-        "imageUrl": "https://static.wixstatic.com/media/ee985c_2ef318e9687e4b76a7dafca84830dcc2~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_2ef318e9687e4b76a7dafca84830dcc2~mv2.png",
+        "imageUrl": "/assets/media/ee985c-2ef318e9687e4b76a7dafca84830dcc2-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-2ef318e9687e4b76a7dafca84830dcc2-mv2.png",
         "imageAlt": "Calamondin tree in a one-gallon pot",
         "images": [],
         "description": "Calamondin — a small, sour-sweet citrus that stays a manageable tree. Grown from scratch here like the rest of the bench.\n\nA good patio tree. Pickup at 5320 N Minnesota Rd, Mission.",
         "details": [
-          { "label": "Size", "value": "1 gallon" },
-          { "label": "Height", "value": "12–15 inches" },
-          { "label": "Variety", "value": "Calamondin" },
-          { "label": "Pickup", "value": "Nursery, Mission TX" }
+          {
+            "label": "Size",
+            "value": "1 gallon"
+          },
+          {
+            "label": "Height",
+            "value": "12–15 inches"
+          },
+          {
+            "label": "Variety",
+            "value": "Calamondin"
+          },
+          {
+            "label": "Pickup",
+            "value": "Nursery, Mission TX"
+          }
         ],
         "status": "available"
       }
@@ -281,7 +422,7 @@
       "Lemons, limes, navels, Valencias, grapefruit, kumquats, satsumas, mandarins, tangelos, and a short list of exotics — finger lime, kaffir, Buddha’s Hand, yuzu, limequat. Over thirty varieties are grown at the nursery.",
       "Trees ship only to Webb, Hidalgo, Cameron, Willacy, Brooks, Starr, Kenedy, Jim Hogg, Kleberg, and Nueces Counties. Orders from anywhere else are canceled. Most one-gallon trees are pickup in Mission."
     ],
-    "imageUrl": "https://static.wixstatic.com/media/ee985c_11df3d5f2b004d76b5cfd2040c781fb1~mv2.png/v1/fill/w_225,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ee985c_11df3d5f2b004d76b5cfd2040c781fb1~mv2.png",
+    "imageUrl": "/assets/media/ee985c-11df3d5f2b004d76b5cfd2040c781fb1-mv2-png/v1/fill/w-225-h-225-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/ee985c-11df3d5f2b004d76b5cfd2040c781fb1-mv2.png",
     "imageAlt": "Pink variegated Eureka lemon with mottled leaves",
     "imageSide": "left",
     "services": [],
@@ -307,7 +448,7 @@
     "whatsapp": "",
     "links": [],
     "videoSrc": "",
-    "logoImageUrl": "https://static.wixstatic.com/media/ee985c_bcba98686d4143538cae1aac833da04b~mv2.png/v1/fill/w_321,h_101,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0282_TIF.png",
+    "logoImageUrl": "/assets/media/ee985c-bcba98686d4143538cae1aac833da04b-mv2-png/v1/fill/w-321-h-101-al-c-q-85-usm-0-66-1-00-0-01-enc-avif-quality-auto/img-0282-tif.png",
     "bg": "#141413",
     "theme": "dark",
     "mailtoSubject": "A citrus tree",

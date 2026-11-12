@@ -1,15 +1,7 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
-import { ProductView } from "@/components/shops/product-view";
-import { SHOP_INSTANCE_ID, shopSlug } from "@/components/shops/data";
-import { StudioChrome } from "@/components/navs/templates/studio/StudioNav";
-import {
-  siteChrome,
-  siteContact,
-  siteHashLinks,
-  siteNav,
-  siteShop,
-} from "@/lib/site-content";
+import { shopSlug } from "@/components/shops/data";
+import { siteChrome, siteShop } from "@/lib/site-content";
+import { ShopSlugLive } from "./live";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -44,30 +36,6 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default async function ShopItemPage({ params }: PageProps) {
-  const { slug } = await params;
-  const content = siteShop();
-  const index = content?.items.findIndex((item) => shopSlug(item) === slug) ?? -1;
-  if (!content || index < 0) notFound();
-  const item = content.items[index];
-  const contact = siteContact();
-  const email = contact?.email.trim() ?? "";
-  const subject = item.title.trim() || item.brand.trim() || "A piece";
-  const inquiryHref = email
-    ? `mailto:${email}?subject=${encodeURIComponent(subject)}`
-    : "";
-
-  return (
-    <StudioChrome nav={siteNav()} hashLinks={siteHashLinks()}>
-      <main>
-        <ProductView
-          item={item}
-          index={index}
-          instanceId={SHOP_INSTANCE_ID}
-          inquiryHref={inquiryHref}
-          inquiryLabel={contact?.ctaLabel.trim() || "Ask about this piece"}
-        />
-      </main>
-    </StudioChrome>
-  );
+export default function ShopItemPage() {
+  return <ShopSlugLive />;
 }

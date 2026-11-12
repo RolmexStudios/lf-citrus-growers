@@ -12,6 +12,7 @@ export function About({
   const Template = aboutTemplates[data.variant] ?? aboutTemplates.split;
   return (
     <BrochureBlock
+      instanceId={instanceId}
       size={data.sectionSize}
       navSurface={data.variant === "values" ? "dark" : undefined}
       reveal={data.variant !== "salon"}

@@ -16,6 +16,7 @@ export function Banner({
   const Template = bannerTemplates[data.variant] ?? bannerTemplates.dock;
   return (
     <BrochureBlock
+      instanceId={instanceId}
       size={data.sectionSize}
       reveal={false}
       className={data.variant === "dock" ? dockStyles.pin : undefined}
